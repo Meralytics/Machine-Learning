@@ -14,7 +14,7 @@ Transcription Display: Shows the transcribed text on the Streamlit app.
 
 Text File Saving: Enables users to save the transcribed text as a text file.
 
- [!NOTE]
+> [!NOTE]
 
 Ensure your microphone is properly connected and configured for speech input.
 
