@@ -16,8 +16,8 @@ Text File Saving: Enables users to save the transcribed text as a text file.
 
 > [!NOTE]
 
-Ensure your microphone is properly connected and configured for speech input.
+> Ensure your microphone is properly connected and configured for speech input.
 
-Internet connectivity is required for the Google Web Speech API.
+> Internet connectivity is required for the Google Web Speech API.
 
-The application supports multiple languages; select the appropriate language for more accurate transcriptions.
+> The application supports multiple languages; select the appropriate language for more accurate transcriptions.
